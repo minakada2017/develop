@@ -1,7 +1,7 @@
 package org.mtcd.data;
 
 import java.io.Serializable;
-import java.util.Date;
+
 
 public class MaterialBean implements Serializable {
 	private static final long serialVersionUID = 1L;
